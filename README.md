@@ -5,7 +5,7 @@ description: >-
   stands behind.
 ---
 
-# Introduction
+# Introduction \(not translated\)
 
 * [_License_](https://github.com/Heyhillary/community-playbook/tree/47fbc178e05e47ec192efd51e62f393b31ceacbc/LICENSE.md)
 

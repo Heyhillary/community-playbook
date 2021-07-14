@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Introduction \(not translated\)](README.md)
 * [Participation Guidelines and Governance](participation-guidelines-and-governance.md)
 
 ## Languages of Common Voice <a id="language"></a>
