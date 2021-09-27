@@ -1,8 +1,8 @@
 ---
-name: 
-about: Template for proposing a new feature
-title: 
-labels: ''
+name: Missing Knowledge 
+about: Gaps of knowledge missing on community playbook 
+title: Missing Knowledge 
+labels: enhancement
 assignees: ''
 
 ---
@@ -53,10 +53,3 @@ We suggest using bullets (indicated by * or -) and filled checkboxes [x] here  -
 
 We suggest using bullets (indicated by * or -) and filled checkboxes [x] here  -->
 
-- [ ] Write feature outline
-- [ ] Discuss via issues comments with community 
-- [ ] Combine with similiar requests 
-- [ ] add to Community Playbook draft
-- [ ] Request reviews
-- [ ] Address reviews
-- [ ] Merge to master branch

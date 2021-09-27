@@ -6,9 +6,12 @@ relative_links:
 include:
   - README.md
   - LICENSE.md
+  - sub_pages/mobilization.md
+  - sub_pages/communities.md
 
 theme: jekyll-theme-minimal
-title: Community Playbook
-description: https://voice.mozilla.org
-logo: /assets/img/logo.png
-show_downloads: true
+title:  Community Playbook 
+description: https://commonvoice.mozilla.org
+logo: /assets/img/CV_Logo.png
+
+show_downloads: false
