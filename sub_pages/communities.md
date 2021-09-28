@@ -4,10 +4,10 @@
 - Chapter 2: [Text](https://common-voice.github.io/community-playbook/sub_pages/text.html)
 - Chapter 3: [Voice](https://common-voice.github.io/community-playbook/sub_pages/voice.html)
 
-
 # Community Page
 
-Common Voice has a variety of communities that support the project in different important areas, they are usually grouped by language.
+Common Voice has a variety of communities that support the project in different important areas, they are usually grouped by language. 
+There are currently over 140 languages contributing either text, voice clips and localizations on Common Voice.  View the full list on [Common Voice Website](https://commonvoice.mozilla.org/en/languages) 
 
 ## Participation Guidelines
 
@@ -23,14 +23,41 @@ To request a new language category for Common Voice Discourse please message hey
 
 For Common Voice site issues, please share these on out [github](https://github.com/mozilla/common-voice). Some language communities have created their own channels. We maintain the list of languages community channels on the [Common Voice Github](https://github.com/common-voice/common-voice/blob/main/docs/COMMUNITIES.md)
 
-## Language Communities of Common Voice
+## Community mobilization
 
-There are currently 140 languages contributing either text, voice clips and localizations on Common Voice. 
+### Starting a language Community 
 
-View the full list on [Common Voice Website](https://commonvoice.mozilla.org/en/languages) 
+Are you intrested in starting a language community to mobilize for Common Voice ? Check out the [Open Leadership Training series](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/), which includes how to build communities.
 
-## Starting a language Community 
+### Engagement and advocacy 
 
-You might be interested in starting a language community supporting the goals of Common Voice. 
+We want to create a voice dataset that is publicly available to anyone and represents the world we live in.  By mobilizing diverse and supportive communities of contributors we are able to achieve this goal. 
 
-We encourage you to check out the [Open Leadership Training series](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/), which includes how to build communities.
+#### Resources to use 
+
+⭐️ You can re-use any graphical material we have produced to support the project, please read the Trademark Guidance before using these materials. 
+
+- [Common Voice Mars Logos](https://drive.google.com/drive/folders/1ZBUgTUnd5rJp9rrXgqVPEOnlSK10j4fx?usp=sharing)  
+- [Localizable images](https://drive.google.com/drive/folders/1c5vv56idUDjCOgGvr9bdMyEFjy9wAbOo?usp=sharing)
+- [Validation Parties slides](https://docs.google.com/presentation/d/1P_rvMLjiC51Y6QAqU0TM9W-EGvzuF6Qu6FwvgLGkI24/edit?usp=sharing)  
+- [Common Voice Event Explainer](https://docs.google.com/presentation/d/1HatIkqvhj--4mYvEGAWHAGQ6yf3O7t6iI3LmF6lFPNc/edit?usp=sharing)
+
+#### Social Media [TBD]
+
+- Social Media Campaign Guide 
+- Video Editing Guide 
+
+#### Engagement events and movement building 
+
+You might be asking, how could I use these resources to support my languages growth on Common Voice?
+
+Here are some ideas, for encouraging people [contribute within your social network and at events](https://community.mozilla.org/en/activities/contributing-to-common-voice/)   
+
+We are currently developing a Contribution Cookbook, to highlight best practices from across the community. 
+
+This will include advice on:
+- Low-resourced languages
+- Community organizing during Covid-19
+- Reward and recognition
+- Social media ideas
+- Marketing materials
