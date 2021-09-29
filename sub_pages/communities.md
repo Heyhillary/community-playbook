@@ -68,21 +68,23 @@ Common Voice Team hosts asycnhornous and synchronous engagments to collabrate wi
 
 ### Community Sessions and Survey's 
 
-One of the forms of engagements are community sessions and survey's. Community sessions are hosted on Zoom, you can register to attend via tito and survey's on Typeform. 
+Common Voice team at Mozilla, host regular community enagements, that are open to community members to take part in.
+
+The community engagemnts include virtual sessions and survey's, which are shared on [weekly updates](https://discourse.mozilla.org/t/weekly-update-thread-2021/84411).  
 
 #### Upcoming Community Sessions 
 
-- Contribute-athon Global, 14th and 21st 
+- Contribute-athon Global, 14th and 21st October 
 
-#### Previous Community Sessions 
+#### Previous Community Sessions and surevy 
 
-- Common Voice 
-- Accent Capture 
+- Common Voice Roadmap 2021 Sessions and survey 
+- Accent Capture, Survey 
 - Access your own voice data, Community Testing 
 
 ### Common Voice Language Reps 
 
-We would like to trial out a Common Voice reps council to support the community to have even more say in important decisions.
+We have recently introduced a Common Voice reps council to support the community to have even more say in important decisions.
 
 Common Voice Language Reps aims to
 
