@@ -15,6 +15,33 @@ Common Voice communities are governed by Mozilla's code of conduct and etiquette
 
 We encourage you to please read [Mozilla Community Participation Guidelines](https://www.mozilla.org/about/governance/policies/participation/) before contributing to this project. For more information on how to report violations of the Community Participation Guidelines, please read our ['How to Report'](https://www.mozilla.org/en-US/about/governance/policies/participation/reporting/) page.
 
+## Community Engagements 
+
+### Community Sessions 
+
+#### 
+
+#### Previous Community Sessions 
+
+### Community Survey's 
+
+### Common Voice Language Reps 
+
+We would like to trial out a Common Voice reps council to support the community to have even more say in important decisions.
+
+Common Voice Language Reps aims to
+
+- Create an explicit avenue for representatives of language communities to advocate for their language community’s needs
+- Empower contributors and language communities with knowledge and influence to shape the community experience
+
+Common Voice Language Rep responsibilities and support
+
+- CV-Reps provide regular feedback on community strategy implementation and the product roadmap
+- CV-reps get early notifications and important updates by email each week from the Community Manager
+- CV-Reps support the creation of communal resources and peer-learning
+- The term of a CVR member is 9 months, with one rep per a language
+- CVRs meet all together every month for at least 1 hour to discuss an open agenda. Meetings can be recorded with the consent of members and hosted on airmozilla.
+
 ## Community Platforms 
 
 The main channels that connect all of the language communication are [Discourse](https://discourse.mozilla.org/c/voice) for topic discussions (e.g announcements, topical discussions) and [matrix](https://chat.mozilla.org/#/room/#common-voice:mozilla.org) for community chats. 
